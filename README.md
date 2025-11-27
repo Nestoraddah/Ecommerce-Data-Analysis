@@ -1,3 +1,29 @@
 # Ecommerce-Data-Analysis
-This project explores an eCommerce dataset of 30,000 customers to generate actionable insights into purchasing behavior, customer engagement, and retention. Using R for analysis and visualization, it focuses on five key areas: churn prediction, customer segmentation, revenue drivers, referral source performance, and loyalty program impact. The findings show that income and time spent on the website strongly influence spending levels, while loyalty program members demonstrate higher engagement and significantly lower churn. Additionally, referrals from friends yield the most loyal and valuable customers, whereas paid advertisements attract higher-churn segments. This project highlights how data analytics can empower eCommerce businesses to optimize marketing strategies, improve retention, and enhance overall customer lifetime value.
+This project analyzes an eCommerce dataset of 30,000 customers to uncover actionable insights into purchasing behavior, engagement patterns, and long-term retention. Using R for data cleaning, exploratory analysis, modeling, and visualization, the project evaluates five core areas: churn prediction, customer segmentation, revenue drivers, referral source effectiveness, and loyalty program performance.
+
+Key Business Questions Answered
+
+What factors most strongly predict customer churn?
+
+Which customer segments drive the highest lifetime value?
+
+How do income and website engagement influence spending?
+
+Which referral sources bring the most loyal customers?
+
+What is the measurable impact of the loyalty program?
+
+Impact & Findings
+
+The analysis shows that income and time spent on the website are major predictors of spending levels. Loyalty program members demonstrate higher engagement and significantly lower churn rates. Additionally, friend referrals generate the most valuable long-term customers, while customers acquired through paid advertising show higher churn risk. The final churn model and segment profiles offer data-driven opportunities for more targeted retention strategies.
+
+Recommendations
+
+Expand the loyalty program with tiered incentives and personalized offers.
+
+Prioritize referral-based acquisition over high-cost paid channels.
+
+Implement targeted retention campaigns for at-risk segments identified by the churn model.
+
+Optimize website experience to increase session duration and drive conversions.
 
